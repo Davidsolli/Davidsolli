@@ -1,7 +1,8 @@
 ## Olá! Meu nome é David
 
 -👨‍🎓 Sou estudante
--📖 Estudando C#
+<br>
+-📖 análise e desenvolvimento de sistemas
 
 <div>
   <a href="https://github.com/Davidsolli">
