@@ -1,7 +1,7 @@
 ## Olá! Meu nome é David
 <br>
 -📖 Software Developer
-
+<br>
 <div align = "center">
   <a href="https://github.com/Davidsolli">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Davidsolli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
