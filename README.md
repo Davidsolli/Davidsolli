@@ -1,8 +1,6 @@
 ## Olá! Meu nome é David
-
--👨‍🎓 Sou estudante
 <br>
--📖 análise e desenvolvimento de sistemas
+-📖 Software Developer
 
 <div align = "center">
   <a href="https://github.com/Davidsolli">
