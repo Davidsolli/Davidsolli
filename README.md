@@ -1,7 +1,15 @@
-## Olá! Meu nome é David
-<br>
--📖 Software Developer
-<br>
+
+<div align = "center">
+	<h2>Olá! Meu nome é David</h2>
+	<br>
+	<br>	
+	-📖 Atualmente sou Software Developer
+	<br>
+    <a href="www.linkedin.com/in/david-oli-dev">
+      <img align="center" alt="David Linkedin"           
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
 
 <div align="center">
 	<h2>Linguagens</h2>
